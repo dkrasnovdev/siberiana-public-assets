@@ -29,3 +29,9 @@ You can use these logo images in your project to represent Siberiana. Simply ref
 ## Contributions
 
 If you have any improvements or additional assets to contribute, feel free to create a pull request.
+
+## Related Repositories
+
+- [Siberiana Nginx Setup](https://github.com/dkrasnovdev/siberiana-nginx)
+- [Siberiana MinIO](https://github.com/dkrasnovdev/siberiana-minio)
+- [Siberiana Keycloak Setup](https://github.com/dkrasnovdev/siberiana-keycloak)
